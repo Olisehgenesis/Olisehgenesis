@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olisehgenesis&label=Profile%20views&color=0e75b6&style=flat" alt="olisehgenesis" /> </p>
 
-- 🔭 I’m currently the C.E.O Innovations Ug [StudyUg](www.studyug.com)
+- 🔭 I’m currently a developer at  [StudyUg](www.smartkts.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
