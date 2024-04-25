@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olisehgenesis&label=Profile%20views&color=0e75b6&style=flat" alt="olisehgenesis" /> </p>
 
-- 🔭 I’m currently a developer at  [Smart Tickets](www.smartkts.com ,  [Sloths Labs](www.theslothslabs.com) , and a few freelance web3 projects
+- 🔭 I’m currently a developer at  [Smart Tickets](www.smartkts.com) ,  [Sloths Labs](www.theslothslabs.com) , and a few freelance web3 projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
