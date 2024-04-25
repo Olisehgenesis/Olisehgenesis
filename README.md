@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oliseh Genesis</h1>
-<h3 align="center">I am from Uganda And Currently a developer at Smart Tickets and C.E.O innovationsUg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olisehgenesis&label=Profile%20views&color=0e75b6&style=flat" alt="olisehgenesis" /> </p>
 
-- 🔭 I’m currently a developer at  [StudyUg](www.smartkts.com)
+- 🔭 I’m currently a developer at  [Smart Tickets](www.smartkts.com ,  [Sloths Labs](www.theslothslabs.com) , and a few freelance web3 projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
