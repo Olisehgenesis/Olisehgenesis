@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olisehgenesis&label=Profile%20views&color=0e75b6&style=flat" alt="olisehgenesis" /> </p>
 
-- 🔭 I’m currently a developer at  [Smart Tickets](www.smartkts.com) ,  [Sloths Labs](www.theslothslabs.com) , and a few freelance web3 projects
+- 🔭 I’m currently a developer at   [Africarare](africarare.io) , [Smart Tickets](www.smartkts.com) ,  [Sloths Labs](www.theslothslabs.com) , and a few freelance web3 projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/olisehgenesis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="olisehgenesis" height="30" width="40" /></a>
-<a href="https://twitter.com/oliseh_ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oliseh_ug" height="30" width="40" /></a>
+<a href="https://twitter.com/illminfofbanana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oliseh_ug" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
