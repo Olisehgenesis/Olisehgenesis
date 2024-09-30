@@ -2,7 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olisehgenesis&label=Profile%20views&color=0e75b6&style=flat" alt="olisehgenesis" /> </p>
 
-- 🔭 I’m currently a developer at   [Africarare](africarare.io) , [Smart Tickets](www.smartkts.com) ,  [Sloths Labs](www.theslothslabs.com) , and a few freelance web3 projects
+- 🔭 I'm currently a developer at:
+  - [Africarare](https://africarare.io) - Community Manager
+  - [Smart Tickets](https://www.smartkts.com) - System Analyst and Android Developer
+  - [Sloths Labs](https://www.theslothslabs.com) - Game Engine Developer
+  - Various freelance Web3 projects
+
+- 💼 Previous experience includes:
+  - Project Manager at PoliCromix (Mexico)
+  - Founder of Innovations Uganda
+
+- 🌍 Passionate about blockchain technology, game development, and community management in the African tech ecosystem
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
