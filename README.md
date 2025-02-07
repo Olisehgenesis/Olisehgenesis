@@ -6,8 +6,6 @@
 
 **Blockchain Developer | Systems Analyst | Python when Free**
 
-[🎯 Sign up for Base End of Year Workshop on Thursday](https://lu.ma/isrd1miu)
-
 </div>
 
 ## 🔭 Current Roles
